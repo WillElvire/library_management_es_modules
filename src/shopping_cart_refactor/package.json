@@ -1,0 +1,11 @@
+{
+  "name": "shopping-cart-refactor",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "bad": "node iteration1_bad.js",
+    "refactor": "node iteration2_refactored.js",
+    "patterns": "node src/demo.js"
+  }
+}
+
